@@ -1,0 +1,2 @@
+# blog
+Practica Blog Personal
